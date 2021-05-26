@@ -26,7 +26,8 @@
                 android:layout_marginLeft="10dp"
                 android:layout_weight="1"
                 android:onClick="cart"
-                app:srcCompat="@drawable/kart" />
+                app:srcCompat="@drawable/kart"
+                tools:ignore="OnClick" />
 
             <ImageView
                 android:id="@+id/imageView4"
