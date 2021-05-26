@@ -132,7 +132,7 @@
         android:id="@+id/textView8"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Prajwal R M"
+        android:text="Shreyas"
         android:textColor="@color/black"
         android:textSize="22sp"
         android:textStyle="bold"
